@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="resultSVG.css"?>
+<!--File Name: Trigger.xml-->
+<ResultsFile>
+  <Header>
+    <headerValue name="Command">GETBACKGROUND</headerValue>
+    <headerValue name="User">Admin</headerValue>
+    <headerValue name="System">1064</headerValue>
+    <headerValue name="SN">P14200001</headerValue>
+    <headerValue name="Test Time">10/1/2014 10:57:33 AM</headerValue>
+  </Header>
+  <Results>
+    <resultsValue name="Pixel Count" units="">512</resultsValue>
+    <resultsValue name="Peak Count" units="">
+    </resultsValue>
+    <resultsValue name="Laser Power" units="mW">200</resultsValue>
+    <resultsValue name="Averages" units="">1</resultsValue>
+    <resultsValue name="Integration" units="ms">1000</resultsValue>
+    <resultsValue name="Noise Threshold" units="">
+    </resultsValue>
+    <resultsValue name="Background Mode" units="">1</resultsValue>
+    <resultsValue name="Sensor Temp" units="C">
+    </resultsValue>
+    <resultsValue name="Ambient Temp" units="C">
+    </resultsValue>
+    <resultsValue name="Optical Block Temp" units="C">
+    </resultsValue>
+  </Results>
+</ResultsFile>

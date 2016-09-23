@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultsFile>
+    <Header>
+        <headerValue name="Command">ENABLELASER</headerValue>
+        <headerValue name="SN">ENABLELASER</headerValue>
+        <headerValue name="User">timer</headerValue>
+        <headerValue name="Application">none</headerValue>
+        <headerValue name="ServerVersion">1.14102</headerValue>
+    </Header>
+    <Results>
+        <resultsValue name="Detector TEC SetPoint" units="DAC Count">0xc000</resultsValue>
+        <resultsValue name="Detector Temp" units="">21.40</resultsValue>
+        <resultsValue name="Laser Temp" units="">29.95</resultsValue>
+        <resultsValue name="OE1 Temp" units="">33.88</resultsValue>
+        <resultsValue name="OE2 Temp" units="">30.12</resultsValue>
+        <resultsValue name="Detector Gain" units="">200</resultsValue>
+    </Results>
+</ResultsFile>

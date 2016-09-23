@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Port>
+    <PortName>COM5</PortName>
+    <BauRate>115200</BauRate>
+    <DataBits>8</DataBits>
+    <Parity>None</Parity>
+    <StopBits>One</StopBits>
+  </Port>
+</Settings>

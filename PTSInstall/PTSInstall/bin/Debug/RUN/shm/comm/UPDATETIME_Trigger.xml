@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="resultSVG.css" type="text/xsl"?>
+<ResultsFile>
+  <Header>
+    <headerValue name="Command">UPDATETIME</headerValue>
+    <headerValue name="year">2015</headerValue>
+    <headerValue name="month">Jan</headerValue>
+    <headerValue name="day">06</headerValue>
+    <headerValue name="hour">11</headerValue>
+    <headerValue name="minute">13</headerValue>
+  </Header>
+  <Results>
+  </Results>
+</ResultsFile>

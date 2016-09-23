@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File Name: Configuration.xml-->
+<configuration>
+  <network>
+    <wifi name="PortNumber">27015</wifi>
+    <wifi name="IPAddress">10.4.4.53</wifi>
+  </network>
+  <system>
+    <settings name="UserID">Admin</settings>
+    <settings name="DeviceID">P99999999</settings>
+    <settings name="MeasurementID">ID1000999</settings>
+    <settings name="TestTime"></settings>
+    <settings name="MethodName">General Purpose</settings>
+    <settings name="SubstanceName">Benzonitrile</settings>
+    <settings name="PixelCount">512</settings>
+    <settings name="PeakSearchMode">1</settings>
+    <settings name="LaserWavelength">1064.06</settings>
+    <settings name="LaserPower">200</settings>
+    <settings name="ExposureTime">1000</settings>
+    <settings name="Averages">1</settings>
+    <settings name="NoiseThreshold">2000</settings>
+    <settings name="BackgroundMode">1</settings>
+    <settings name="BaselineCorrection">1</settings>
+    <settings name="OpenFolderPath"></settings>
+    <settings name="SaveFolderPath"></settings>
+    <settings name="AcquisitionType">1</settings>
+    <settings name="DetectorTempSetPoint">32768</settings>
+    <settings name="LaserPowerSlope">0.0142</settings>
+    <settings name="LaserPowerIntercept">-13.4412</settings>
+    <settings name="OESerialNumber">99999999</settings>
+    <settings name="SoftwareVersion">1.1.0.987</settings>
+    <settings name="ServerVersion">1.50120</settings>
+    <settings name="FirmwareVersion">2.1.0.138</settings>
+    <settings name="PartNumber">1005832</settings>
+    <settings name="ProgenyFoldersLocation">C:\Rigaku\PTS\Manufacturing_Local\Shipped Instruments\Progeny</settings>
+    <settings name="OpticalEngineFoldersLocation">C:\Rigaku\PTS\Manufacturing_Local\Optical Engines\Progeny 1064</settings>
+    <settings name="ManufacturingDate">Mar/2015</settings>
+    <settings name="saveDataAsCSV">false</settings>
+    <settings name="saveDataAsXML">false</settings>
+    <settings name="saveBurninTestData">false</settings>
+    <settings name="logUsbEthernetMessages">false</settings>
+    <settings name="showUsbEthernetMessageWin">false</settings>
+  </system>
+</configuration>

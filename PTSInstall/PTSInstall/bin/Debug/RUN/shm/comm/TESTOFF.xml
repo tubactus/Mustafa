@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="resultSVG.css" type="text/xsl"?>
+<ResultsFile>
+	<Header>
+		<headerValue name="Command">DISABLELASER</headerValue>
+	</Header>
+	<Results>
+	</Results>
+</ResultsFile>

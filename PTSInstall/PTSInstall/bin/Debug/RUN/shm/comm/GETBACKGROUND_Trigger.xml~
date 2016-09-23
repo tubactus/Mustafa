@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="resultSVG.css" type="text/xsl"?>
+<ResultsFile>
+  <Header>
+    <headerValue name="Command">GETBACKGROUND</headerValue>
+    <headerValue name="SN">P14200001</headerValue>
+    <headerValue name="User">Admin</headerValue>
+    <headerValue name="Application">_Instrument Calibration</headerValue>
+    <headerValue name="Averages">1</headerValue>
+    <headerValue name="Power">200</headerValue>
+    <headerValue name="Integration">500</headerValue>
+    <headerValue name="ServerVersion">1.14092</headerValue>
+    <headerValue name="Searched Library">Master Library</headerValue>
+    <headerValue name="Baseline">On</headerValue>
+  </Header>
+ </ResultsFile>

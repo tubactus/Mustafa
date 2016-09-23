@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResultsFile>
+  <Header>
+    <headerValue name="Command">NEWFRAME</headerValue>
+    <headerValue name="User">Admin</headerValue>
+    <headerValue name="Application">_Analyze</headerValue>
+    <headerValue name="SerialNumber">P14300022</headerValue>
+    <headerValue name="ValidationCMPD">
+    </headerValue>
+    <headerValue name="Integration">1000</headerValue>
+    <headerValue name="AutoExposure">Off</headerValue>
+    <headerValue name="Averages">1</headerValue>
+    <headerValue name="Power">300</headerValue>
+    <headerValue name="LibraryID">
+    </headerValue>
+    <headerValue name="Searched Library">
+    </headerValue>
+    <headerValue name="Baseline">
+    </headerValue>
+  </Header>
+</ResultsFile>

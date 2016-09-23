@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="resultSVG.css" type="text/xsl"?>
+<ResultsFile>
+  <Header>
+    <headerValue name="Command">UPDATESETTINGS</headerValue>
+    <headerValue name="laserSlope">0.0141</headerValue>
+    <headerValue name="laserIntercept">-6.3069</headerValue>
+    <headerValue name="DetectorTEC">5</headerValue>
+    <headerValue name="TurboModeTEC">5</headerValue>
+    <headerValue name="laserWL">1064.10</headerValue>
+  </Header>
+  <Results>
+  </Results>
+</ResultsFile>
