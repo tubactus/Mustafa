@@ -23,3 +23,6 @@ C:\AxlibSI\Axlib\AmiViewInstall\PTSInstall\obj\x86\Debug\PTSInstall.csproj.Gener
 C:\AxlibSI\Axlib\PTSInstall\PTSInstall\bin\Debug\PTSInstall.exe.config
 C:\AxlibSI\Axlib\PTSInstall\PTSInstall\obj\x86\Debug\PTSInstall.exe
 C:\AxlibSI\Axlib\PTSInstall\PTSInstall\obj\x86\Debug\PTSInstall.pdb
+C:\Users\tcondarcure\Desktop\Mustafa\PTSInstall\PTSInstall\bin\Debug\PTSInstall.exe.config
+C:\Users\tcondarcure\Desktop\Mustafa\PTSInstall\PTSInstall\obj\x86\Debug\PTSInstall.exe
+C:\Users\tcondarcure\Desktop\Mustafa\PTSInstall\PTSInstall\obj\x86\Debug\PTSInstall.pdb

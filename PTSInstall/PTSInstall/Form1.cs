@@ -34,7 +34,7 @@ namespace PTSInstall
             set { m_AppHomeFolderCreated = value; }
         }
 
-        private string Version = "1.0.0.0";
+        private string Version = "1.0.0.0";  // used to set current app version
         public Form1()
         {
             InitializeComponent();
